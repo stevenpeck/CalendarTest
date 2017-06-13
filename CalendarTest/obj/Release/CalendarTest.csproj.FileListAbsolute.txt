@@ -1,0 +1,13 @@
+D:\C# Projects\Personal\CalendarTest\CalendarTest\bin\Release\CalendarTest.exe.config
+D:\C# Projects\Personal\CalendarTest\CalendarTest\bin\Release\CalendarTest.exe
+D:\C# Projects\Personal\CalendarTest\CalendarTest\bin\Release\CalendarTest.pdb
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\MainWindow.g.cs
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\App.g.cs
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest_MarkupCompile.cache
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest_MarkupCompile.lref
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\MainWindow.baml
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest.g.resources
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest.Properties.Resources.resources
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest.csproj.GenerateResource.Cache
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest.exe
+D:\C# Projects\Personal\CalendarTest\CalendarTest\obj\Release\CalendarTest.pdb
